@@ -1,4 +1,4 @@
-# Comet-Creators
+
 # Comet Creaters - Explore the Cosmos
 
 Welcome to the Comet Creaters repository! This repository contains the source code and assets for our space-themed website, where you can explore the wonders of the cosmos, learn interesting facts about space, and more.
